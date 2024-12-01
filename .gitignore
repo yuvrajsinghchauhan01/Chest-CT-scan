@@ -129,6 +129,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+CT_scan/
 
 # Spyder project settings
 .spyderproject
