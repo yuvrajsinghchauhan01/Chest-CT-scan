@@ -7,7 +7,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Chest-CT-scan"
 AUTHOR_USER_NAME = "yuvrajsinghchauhan01"
-SRC_REPO = "chest-ct-scan"
+SRC_REPO = "chest_ct_scan"
 AUTHOR_EMAIL = "ychauhan191@gmail.com"
 
 setuptools.setup(
